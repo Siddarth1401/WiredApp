@@ -1,0 +1,2 @@
+rootProject.name='ebapp'
+include ':app'
